@@ -36,7 +36,7 @@
 
 <p>
   <img src="https://viz.mediapipe.dev/logo.png" title="MediaPipe" alt="MediaPipe" width="40" height="40"/>&nbsp;
-  <img src="  https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-copilot-icon.png" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/githubcopilot.png" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/1200px-ChatGPT-Logo.svg.png" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp;
   <img src="https://www.asmvigevano.it/wp-content/uploads/2021/04/scantarga.png" title="LPR (License Plate Recognition)" alt="LPR (License Plate Recognition)" width="40" height="40"/>
   <img src="https://ollama.com/public/icon-32x32.png" title="Ollama" alt="Ollama" width="40" height="40"/>
