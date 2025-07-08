@@ -2,7 +2,7 @@
 
 💻 I'm currently training as an **Application Developer** in Germany, and I've already sold a few websites on the side.  
 🌱 I love building projects that solve problems or bring ideas to life.  
-🌍 I speak both <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/300px-Flag_of_Germany.svg.png" title="Germany" height="14" width="14"> **German** and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/330px-Flag_of_the_United_States.svg.png" title="United States of America" height="14" width="14"> **English**.
+🌍 I speak both <img src="./img/germany.svg" title="Germany" height="14" width="21"> **German** and <img src="./img/usa.svg" title="United States of America" height="14" width="21"> **English**.
 
 ---
 
@@ -11,35 +11,35 @@
 #### 🧑‍💻 Languages & Programming
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/000000/sap.png" title="ABAP / SAP" alt="ABAP" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL / MySQL" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.php.net/favicon.ico?v=2" title="PHP" alt="PHP" width="40" height="40"/>
+  <img src="./img/html5.svg" title="HTML" alt="HTML" height="40" width="auto"/>&nbsp;
+  <img src="./img/css4.svg" title="CSS" alt="CSS" height="40" width="auto"/>&nbsp;
+  <img src="./img/js.svg" title="JavaScript" alt="JavaScript" height="40" width="auto"/>&nbsp;
+  <img src="./img/ts.svg" title="TypeScript" alt="TypeScript" height="40" width="auto"/>&nbsp;
+  <img src="./img/python.svg" title="Python" alt="Python" height="40" width="auto"/>&nbsp;
+  <img src="./img/java.svg" title="Java" alt="Java" height="40" width="auto"/>&nbsp;
+  <img src="./img/sap.png" title="ABAP / SAP" alt="ABAP" height="40" width="auto"/>&nbsp;
+  <img src="./img/nodejs.svg" title="NodeJS" alt="NodeJS" height="40" width="auto"/>&nbsp;
+  <img src="./img/mysql.svg" title="SQL / MySQL" alt="MySQL" height="40" width="auto"/>
+  <img src="./img/php.svg" title="PHP" alt="PHP" height="40" width="auto"/>
 </p>
 
 #### ⚙️ Tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" title="Eclipse" alt="Eclipse" width="40" height="40"/>&nbsp;
-  <img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" title="XAMPP" alt="XAMPP" width="40" height="40"/>
+  <img src="./img/vscode.svg" title="VS Code" alt="VS Code" height="40" width="auto"/>&nbsp;
+  <img src="./img/github2.svg" title="GitHub" alt="GitHub" height="40" width="auto"/>&nbsp;
+  <img src="./img/eclipse.svg" title="Eclipse" alt="Eclipse" height="40" width="auto"/>&nbsp;
+  <img src="./img/xampp.svg" title="XAMPP" alt="XAMPP" height="40" width="auto"/>
 </p>
 
 #### 🧠 Technologies I work with
 
 <p>
-  <img src="https://viz.mediapipe.dev/logo.png" title="MediaPipe" alt="MediaPipe" width="40" height="40"/>&nbsp;
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/githubcopilot.png" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/ChatGPT-Logo.svg/1200px-ChatGPT-Logo.svg.png" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp;
-  <img src="https://www.asmvigevano.it/wp-content/uploads/2021/04/scantarga.png" title="LPR (License Plate Recognition)" alt="LPR (License Plate Recognition)" width="40" height="40"/>
-  <img src="https://ollama.com/public/icon-32x32.png" title="Ollama" alt="Ollama" width="40" height="40"/>
+  <img src="./img/mediapipe.svg" title="MediaPipe" alt="MediaPipe" height="40" width="auto"/>&nbsp;
+  <img src="./img/copilot.png" title="GitHub Copilot" alt="GitHub Copilot" height="40" width="auto"/>&nbsp;
+  <img src="./img/chatgpt.svg" title="ChatGPT" alt="ChatGPT" height="40" width="auto"/>&nbsp;
+  <img src="./img/lpr2.svg" title="LPR (License Plate Recognition)" alt="LPR (License Plate Recognition)" height="40" width="auto"/>
+  <img src="./img/ollama.png" title="Ollama" alt="Ollama" height="40" width="auto"/>
 </p>
 
 ---
@@ -66,4 +66,4 @@ Whether it's capturing the moment or exploring a new world (virtual or real), I�
 ---
 
 > Built with passion and curiosity.  
-> – <img src="https://nsbgg.github.io/img/logo.png" height="14" width="14" alt="Logo"> nsbgg
+> – <img src="./img/logo.svg" height="14" width="14" alt="Logo"> nsbgg
