@@ -8,38 +8,59 @@
 
 ### 🛠️ Tech Stack
 
-#### 🧑‍💻 Languages & Programming
+#### Frontend
 
-<p>
-  <img src="./img/html5.svg" title="HTML" alt="HTML" height="40" width="auto"/>&nbsp;
-  <img src="./img/css4.svg" title="CSS" alt="CSS" height="40" width="auto"/>&nbsp;
-  <img src="./img/js.svg" title="JavaScript" alt="JavaScript" height="40" width="auto"/>&nbsp;
-  <img src="./img/ts.svg" title="TypeScript" alt="TypeScript" height="40" width="auto"/>&nbsp;
-  <img src="./img/python.svg" title="Python" alt="Python" height="40" width="auto"/>&nbsp;
-  <img src="./img/java.svg" title="Java" alt="Java" height="40" width="auto"/>&nbsp;
-  <img src="./img/sap.png" title="ABAP / SAP" alt="ABAP" height="40" width="auto"/>&nbsp;
-  <img src="./img/nodejs.svg" title="NodeJS" alt="NodeJS" height="40" width="auto"/>&nbsp;
-  <img src="./img/mysql.svg" title="SQL / MySQL" alt="MySQL" height="40" width="auto"/>
-  <img src="./img/php.svg" title="PHP" alt="PHP" height="40" width="auto"/>
+<p align="left">
+  <img src="./img/html5.svg" title="HTML5" alt="HTML5" height="40"/>&nbsp;
+  <img src="./img/css4.svg" title="CSS3" alt="CSS3" height="40"/>&nbsp;
+  <img src="./img/js.svg" title="JavaScript" alt="JavaScript" height="40"/>&nbsp;
+  <img src="./img/ts.svg" title="TypeScript" alt="TypeScript" height="40"/>&nbsp;
+  <img src="./img/flutter.svg" title="Flutter" alt="Flutter" height="40"/>&nbsp;
+  <img src="./img/dart.svg" title="Dart" alt="Dart" height="40"/>
+  <img src="./img/kotlin.svg" title="Dart" alt="Dart" height="40"/>
+  <img src="./img/wordpress.svg" title="Wordpress" alt="Wordpress" height="40"/>
+</p>
+ 
+#### Backend & Databases
+
+<p align="left">
+  <img src="./img/nodejs.svg" title="Node.js" alt="Node.js" height="40"/>&nbsp;
+  <img src="./img/php.svg" title="PHP" alt="PHP" height="40"/>&nbsp;
+  <img src="./img/java.svg" title="Java" alt="Java" height="40"/>&nbsp;
+  <img src="./img/python.svg" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="./img/sap.png" title="ABAP / SAP" alt="ABAP / SAP" height="40"/>&nbsp;
+  <img src="./img/mysql.svg" title="MySQL" alt="MySQL" height="40"/>
 </p>
 
-#### ⚙️ Tools
+#### Development Tools & Platforms
 
-<p>
-  <img src="./img/vscode.svg" title="VS Code" alt="VS Code" height="40" width="auto"/>&nbsp;
-  <img src="./img/github2.svg" title="GitHub" alt="GitHub" height="40" width="auto"/>&nbsp;
-  <img src="./img/eclipse.svg" title="Eclipse" alt="Eclipse" height="40" width="auto"/>&nbsp;
-  <img src="./img/xampp.svg" title="XAMPP" alt="XAMPP" height="40" width="auto"/>
+<p align="left">
+  <img src="./img/vscode.svg" title="VS Code" alt="VS Code" height="40"/>&nbsp;
+  <img src="./img/eclipse.svg" title="Eclipse" alt="Eclipse" height="40"/>&nbsp;
+  <img src="./img/androidstudio.svg" title="Android Studio" alt="Android Studio" height="40"/>&nbsp;
+  <img src="./img/xampp.svg" title="XAMPP" alt="XAMPP" height="40"/>&nbsp;
+  <img src="./img/github2.svg" title="GitHub" alt="GitHub" height="40"/>&nbsp;
+  <img src="./img/tux.svg" title="Linux" alt="Linux" height="40"/>
+  <img src="./img/omarchy.svg" title="Omarchy" alt="Omarchy" height="40"/>
 </p>
 
-#### 🧠 Technologies I work with
+#### Infrastructure & Virtualization
 
-<p>
-  <img src="./img/mediapipe.svg" title="MediaPipe" alt="MediaPipe" height="40" width="auto"/>&nbsp;
-  <img src="./img/copilot.png" title="GitHub Copilot" alt="GitHub Copilot" height="40" width="auto"/>&nbsp;
-  <img src="./img/chatgpt.svg" title="ChatGPT" alt="ChatGPT" height="40" width="auto"/>&nbsp;
-  <img src="./img/lpr2.svg" title="LPR (License Plate Recognition)" alt="LPR (License Plate Recognition)" height="40" width="auto"/>
-  <img src="./img/ollama.png" title="Ollama" alt="Ollama" height="40" width="auto"/>
+<p align="left">
+  <img src="./img/proxmox.svg" title="Proxmox" alt="Proxmox" height="40"/>&nbsp;
+  <img src="./img/ceph.svg" title="Ceph" alt="Ceph" height="40"/>
+  <img src="./img/nginx.svg" title="Nginx" alt="Nginx" height="40"/>
+  <img src="./img/wireguard.svg" title="Wireguard" alt="Wireguard" height="40"/>
+</p>
+
+#### AI, Vision & Automation
+
+<p align="left">
+  <img src="./img/mediapipe.svg" title="MediaPipe" alt="MediaPipe" height="40"/>&nbsp;
+  <img src="./img/lpr2.svg" title="License Plate Recognition" alt="LPR" height="40"/>&nbsp;
+  <img src="./img/ollama.png" title="Ollama" alt="Ollama" height="40"/>
+  <img src="./img/copilot.png" title="GitHub Copilot" alt="GitHub Copilot" height="40"/>&nbsp;
+  <img src="./img/chatgpt.svg" title="ChatGPT" alt="ChatGPT" height="40"/>&nbsp;
 </p>
 
 ---
