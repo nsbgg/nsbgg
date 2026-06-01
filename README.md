@@ -1,6 +1,6 @@
 ### Hi there, I'm nsbgg 👋
 
-💻 I'm currently training as an **Application Developer** in Germany, and I've already sold a few websites on the side.  
+💻 I'm currently working as a **Junior Software Engineer** in Germany, and I've already sold a few websites on the side.  
 🌱 I love building projects that solve problems or bring ideas to life.  
 🌍 I speak both <img src="./img/germany.svg" title="Germany" height="14" width="21"> **German** and <img src="./img/usa.svg" title="United States of America" height="14" width="21"> **English**.
 
@@ -26,10 +26,12 @@
 <p align="left">
   <img src="./img/nodejs.svg" title="Node.js" alt="Node.js" height="40"/>&nbsp;
   <img src="./img/php.svg" title="PHP" alt="PHP" height="40"/>&nbsp;
+  <img src="./img/csharp.svg" title="C#" alt="C#" height="40"/>
   <img src="./img/java.svg" title="Java" alt="Java" height="40"/>&nbsp;
   <img src="./img/python.svg" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="./img/sap.png" title="ABAP / SAP" alt="ABAP / SAP" height="40"/>&nbsp;
   <img src="./img/mysql.svg" title="MySQL" alt="MySQL" height="40"/>
+  <img src="./img/sqlite.svg" title="SQLite" alt="SQLite" height="40"/>
 </p>
 
 #### Development Tools & Platforms
@@ -39,6 +41,8 @@
   <img src="./img/eclipse.svg" title="Eclipse" alt="Eclipse" height="40"/>&nbsp;
   <img src="./img/androidstudio.svg" title="Android Studio" alt="Android Studio" height="40"/>&nbsp;
   <img src="./img/xampp.svg" title="XAMPP" alt="XAMPP" height="40"/>&nbsp;
+  <img src="./img/postman.svg" title="Postman" alt="Postman" height="40"/>
+  <img src="./img/docker.svg" title="Docker" alt="Docker" height="40"/>
   <img src="./img/github2.svg" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="./img/tux.svg" title="Linux" alt="Linux" height="40"/>
   <img src="./img/omarchy.svg" title="Omarchy" alt="Omarchy" height="40"/>
